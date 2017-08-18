@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1544853668/C_INCLUDE_PATH/delimiter=\:
+environment/project/com.android.toolchain.gcc.1544853668/C_INCLUDE_PATH/operation=replace
+environment/project/com.android.toolchain.gcc.1544853668/C_INCLUDE_PATH/value=/Users/Joshua/Library/Android/android-ndk-r14b/platforms/android-19/arch-arm/usr/include
+environment/project/com.android.toolchain.gcc.1544853668/append=true
+environment/project/com.android.toolchain.gcc.1544853668/appendContributed=true
+environment/project/com.android.toolchain.gcc.1719473939/append=true
+environment/project/com.android.toolchain.gcc.1719473939/appendContributed=true
